@@ -1,0 +1,31 @@
+syntax = "proto3";
+package grid.grid;
+
+// this line is used by starport scaffolding # proto/tx/import
+
+option go_package = "grid/x/grid/types";
+
+// Msg defines the Msg service.
+service Msg {
+      rpc SubmitPower(MsgSubmitPower) returns (MsgSubmitPowerResponse);
+  rpc SubmitEstimate(MsgSubmitEstimate) returns (MsgSubmitEstimateResponse);
+// this line is used by starport scaffolding # proto/tx/rpc
+}
+
+message MsgSubmitPower {
+  string creator = 1;
+  string watt = 2;
+}
+
+message MsgSubmitPowerResponse {
+}
+
+message MsgSubmitEstimate {
+  string creator = 1;
+  string watt = 2;
+}
+
+message MsgSubmitEstimateResponse {
+}
+
+// this line is used by starport scaffolding # proto/tx/message

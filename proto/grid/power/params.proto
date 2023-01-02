@@ -1,0 +1,12 @@
+syntax = "proto3";
+package grid.power;
+
+import "gogoproto/gogo.proto";
+
+option go_package = "grid/x/power/types";
+
+// Params defines the parameters for the module.
+message Params {
+  option (gogoproto.goproto_stringer) = false;
+  
+}

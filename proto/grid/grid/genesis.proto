@@ -1,0 +1,14 @@
+syntax = "proto3";
+package grid.grid;
+
+import "gogoproto/gogo.proto";
+import "grid/grid/params.proto";
+// this line is used by starport scaffolding # genesis/proto/import
+
+option go_package = "grid/x/grid/types";
+
+// GenesisState defines the grid module's genesis state.
+message GenesisState {
+  Params params = 1 [(gogoproto.nullable) = false];
+  // this line is used by starport scaffolding # genesis/proto/state
+}
