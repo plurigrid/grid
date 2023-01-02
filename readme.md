@@ -1,5 +1,8 @@
 # Plurigrid
-![image](https://user-images.githubusercontent.com/1236584/210226196-43bd7c26-2580-4e7d-ac0f-d82c89126d8e.png)
+2022-01-01 Testnet #0: Edith Clarke
+2022-02-01 Testnet #1: Marie Curie
+
+<img width="1587" alt="clarke" src="https://user-images.githubusercontent.com/1236584/210226945-e9bd74cf-09bf-4a1d-9009-d2515f4ffe6e.png">
 
 ## To contribute, make a Pull Request and join [#testnet on our Zulip](https://plurigrid.zulipchat.com/join/5vffrr3jwddnywzopwyagkud/)
 Record batched data about power output from solar panels and other renewable energy sources. ☀️⚡️🔋
