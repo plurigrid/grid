@@ -1,6 +1,6 @@
 # Plurigrid
-2022-01-01 Testnet #0: Edith Clarke
-2022-02-01 Testnet #1: Marie Curie
+- **2022-01-01** Testnet #0: Edith Clarke
+- **2022-02-01** Testnet #1: Marie Curie
 
 <img width="1587" alt="clarke" src="https://user-images.githubusercontent.com/1236584/210226945-e9bd74cf-09bf-4a1d-9009-d2515f4ffe6e.png">
 
