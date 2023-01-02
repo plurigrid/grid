@@ -1,4 +1,6 @@
 # Plurigrid
+![image](https://user-images.githubusercontent.com/1236584/210226196-43bd7c26-2580-4e7d-ac0f-d82c89126d8e.png)
+
 ## To contribute, make a Pull Request and join [#testnet on our Zulip](https://plurigrid.zulipchat.com/join/5vffrr3jwddnywzopwyagkud/)
 Record batched data about power output from solar panels and other renewable energy sources. ☀️⚡️🔋
 
