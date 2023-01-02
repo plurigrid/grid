@@ -1,7 +1,8 @@
 # Plurigrid
+## To contribute, make a Pull Request and join [#testnet on our Zulip](https://plurigrid.zulipchat.com/join/5vffrr3jwddnywzopwyagkud/)
 Record batched data about power output from solar panels and other renewable energy sources. ☀️⚡️🔋
 
-Record batched data about what private capacity model estimates for any given time period (using https://github.com/Plurigrid/moose). 
+Record batched data about what private capacity model estimates for any given time period (using https://github.com/Plurigrid/moose).
 ## Get started
 
 ##  Set up Celestia Light Node locally
