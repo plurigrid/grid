@@ -23,6 +23,10 @@ ignite chain build
 
 ## Run Plurigrid test node locally
 
+```
+bash init.sh
+```
+
 ### Configure
 
 Your blockchain in development can be configured with `config.yml`. To learn more, see the [Ignite CLI docs](https://docs.ignite.com).
